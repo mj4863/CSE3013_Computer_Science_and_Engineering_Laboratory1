@@ -1,2 +1,2 @@
-# CSE3013_Computer_Science_and_Engineering_Laboratory-I
+# CSE3013_Computer_Science_and_Engineering_Laboratory I
 2024-1 소프트웨어개발도구및환경실습
